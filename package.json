@@ -1,6 +1,6 @@
 {
   "name": "theo",
-  "version": "8.1.5",
+  "version": "8.1.6",
   "license": "BSD-3-Clause",
   "description": "Design Tokens formatter",
   "keywords": [
@@ -35,7 +35,7 @@
     ]
   },
   "engines": {
-    "node": ">=6.3.1"
+    "node": ">=12"
   },
   "repository": {
     "type": "git",
